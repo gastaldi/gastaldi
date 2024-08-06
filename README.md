@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gastaldi&show=reviews,prs_merged&hide=contribs,prs&theme=transparent&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gastaldi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="aayushsaini101" /> </p>
 
