@@ -15,14 +15,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/forge/roaster/pull/379#issuecomment-3564556112) in [forge/roaster](https://github.com/forge/roaster)
-2. 💪 Opened PR [#380](undefined) in [forge/roaster](https://github.com/forge/roaster)
-3. 🚀 Published release [2.31.0.Final](https://github.com/forge/roaster/releases/tag/untagged-f0c2f250fc07b9bc0f9b) in [forge/roaster](https://github.com/forge/roaster)
-4. 🔒 Closed issue [#378](https://github.com/forge/roaster/issues/378) in [forge/roaster](https://github.com/forge/roaster)
-5. 🗣 Commented on [#379](https://github.com/forge/roaster/pull/379#issuecomment-3562906519) in [forge/roaster](https://github.com/forge/roaster)
-6. 💪 Opened PR [#379](undefined) in [forge/roaster](https://github.com/forge/roaster)
-7. 🗣 Commented on [#49976](https://github.com/quarkusio/quarkus/issues/49976#issuecomment-3555123350) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-8. 💪 Opened PR [#140](undefined) in [agroal/agroal](https://github.com/agroal/agroal)
+1. 🚀 Published release [2.30.3.Final](https://github.com/forge/roaster/releases/tag/2.30.3.Final) in [forge/roaster](https://github.com/forge/roaster)
+2. 🗣 Commented on [#379](https://github.com/forge/roaster/pull/379#issuecomment-3568042535) in [forge/roaster](https://github.com/forge/roaster)
+3. 🗣 Commented on [#379](https://github.com/forge/roaster/pull/379#issuecomment-3564556112) in [forge/roaster](https://github.com/forge/roaster)
+4. 💪 Opened PR [#380](undefined) in [forge/roaster](https://github.com/forge/roaster)
+5. 🔒 Closed issue [#378](https://github.com/forge/roaster/issues/378) in [forge/roaster](https://github.com/forge/roaster)
+6. 🗣 Commented on [#379](https://github.com/forge/roaster/pull/379#issuecomment-3562906519) in [forge/roaster](https://github.com/forge/roaster)
+7. 💪 Opened PR [#379](undefined) in [forge/roaster](https://github.com/forge/roaster)
+8. 🗣 Commented on [#49976](https://github.com/quarkusio/quarkus/issues/49976#issuecomment-3555123350) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 9. 🔒 Closed issue [#51115](https://github.com/quarkusio/quarkus/issues/51115) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 10. 🗣 Commented on [#51115](https://github.com/quarkusio/quarkus/issues/51115#issuecomment-3552765869) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 11. 🗣 Commented on [#43](https://github.com/quarkiverse/quarkus-pdfbox/issues/43#issuecomment-3552382678) in [quarkiverse/quarkus-pdfbox](https://github.com/quarkiverse/quarkus-pdfbox)
