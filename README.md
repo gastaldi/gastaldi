@@ -15,8 +15,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#215](https://github.com/quarkusio/quarkus-ecosystem-ci/pull/215) in [quarkusio/quarkus-ecosystem-ci](https://github.com/quarkusio/quarkus-ecosystem-ci)
-2. 🗣 Commented on [#53643](https://github.com/quarkusio/quarkus/issues/53643#issuecomment-4262438077) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+1. 🎉 Merged PR [#183](https://github.com/quarkiverse/quarkus-prettytime/pull/183) in [quarkiverse/quarkus-prettytime](https://github.com/quarkiverse/quarkus-prettytime)
+2. 💪 Opened PR [#183](https://github.com/quarkiverse/quarkus-prettytime/pull/183) in [quarkiverse/quarkus-prettytime](https://github.com/quarkiverse/quarkus-prettytime)
 3. 🔒 Closed issue [#53643](https://github.com/quarkusio/quarkus/issues/53643) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 4. 🎉 Merged PR [#433](https://github.com/quarkiverse/quarkiverse-devops/pull/433) in [quarkiverse/quarkiverse-devops](https://github.com/quarkiverse/quarkiverse-devops)
 5. 🎉 Merged PR [#434](https://github.com/quarkiverse/quarkiverse-devops/pull/434) in [quarkiverse/quarkiverse-devops](https://github.com/quarkiverse/quarkiverse-devops)
