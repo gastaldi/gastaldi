@@ -15,10 +15,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/quarkusio/quarkus-bazel-rules/issues/172#issuecomment-6343469135) in [quarkusio/quarkus-bazel-rules](https://github.com/quarkusio/quarkus-bazel-rules)
-2. ℹ️ Unlabeled PR [#57772](https://github.com/quarkusio/quarkus/pull/57772) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-3. ℹ️ Unlabeled PR [#57772](https://github.com/quarkusio/quarkus/pull/57772) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-4. ℹ️ Unlabeled PR [#57772](https://github.com/quarkusio/quarkus/pull/57772) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+1. 🗣 Commented on [#57772](https://github.com/quarkusio/quarkus/pull/57772#issuecomment-6369128591) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+2. 🗣 Commented on [#57796](https://github.com/quarkusio/quarkus/issues/57796#issuecomment-6365939805) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+3. ℹ️ Labeled PR [#57805](https://github.com/quarkusio/quarkus/pull/57805) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+4. 🗣 Commented on [#172](https://github.com/quarkusio/quarkus-bazel-rules/issues/172#issuecomment-6343469135) in [quarkusio/quarkus-bazel-rules](https://github.com/quarkusio/quarkus-bazel-rules)
 5. ℹ️ Unlabeled PR [#57772](https://github.com/quarkusio/quarkus/pull/57772) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 6. ℹ️ Unlabeled PR [#57772](https://github.com/quarkusio/quarkus/pull/57772) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 7. ℹ️ Unlabeled PR [#57772](https://github.com/quarkusio/quarkus/pull/57772) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
